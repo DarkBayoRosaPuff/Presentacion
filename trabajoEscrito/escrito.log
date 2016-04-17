@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.3)  17 APR 2016 02:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.3)  17 APR 2016 16:11
 entering extended mode
 **escrito.tex
 
@@ -191,20 +191,27 @@ Package pdftex.def Info: ./images/logo_ciencias.png used on input line 11.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Kikinzco/Desktop
 /Escuela/Semestre 6/Riesgo Tecnologico/Presentacion/trabajoEscrito/images/logo_
 ciencias.png>] [1]
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-\OT1/cmr/m/n/12 The Seven Prop-er-ties of Ef-fec-tive Soft-ware Projects
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-
- []
-
 Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ³ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no © in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
+ []
+
+
+Overfull \hbox (28.29565pt too wide) in paragraph at lines 63--65
+\OT1/cmr/m/n/12 https://www.agilealliance.org/agile101/12-principles-behind-the
+-agile-manifesto/] 
  []
 
 
@@ -213,13 +220,104 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--65
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ³ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+\OT1/cmr/m/n/12 The Seven Prop-er-ties of Ef-fec-tive Soft-ware Projects
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¡ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+
+ []
+
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¡ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ³ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+[4]
 Missing character: There is no Ã in font cmbx12!
 Missing character: There is no ­ in font cmbx12!
-[2] [3]
+ [5]
 ("C:\Users\Kikinzco\Desktop\Escuela\Semestre 6\Riesgo Tecnologico\Presentacion\
 trabajoEscrito\escrito.aux") ) 
 Here is how much of TeX's memory you used:
@@ -229,16 +327,16 @@ Here is how much of TeX's memory you used:
  4920 multiletter control sequences out of 15000+200000
  7733 words of font info for 27 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,4n,19p,293b,146s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,4n,19p,293b,171s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Kikinzco\AppData\Local\MiKTeX\2.9\font
 s\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk> <C:\Users\Kikinzco\AppData\Local\Mi
 KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk><C:/Program Files (x86)
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on escrito.pdf (4 pages, 71852 bytes).
+Output written on escrito.pdf (6 pages, 77092 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

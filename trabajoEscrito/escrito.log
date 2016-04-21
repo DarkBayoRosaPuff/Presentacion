@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.5)  20 APR 2016 23:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.5)  20 APR 2016 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -250,74 +250,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--100
  []
 
 [3]
-Overfull \hbox (28.29565pt too wide) in paragraph at lines 103--105
-\OT1/cmr/m/n/12 https://www.agilealliance.org/agile101/12-principles-behind-the
--agile-manifesto/] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 103--105
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 157--162
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
-
- []
-
 Missing character: There is no Ã in font cmbx12!
 Missing character: There is no ­ in font cmbx12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--192
+
+ []
+
+
+Overfull \hbox (25.0318pt too wide) in paragraph at lines 186--192
+\OT1/cmr/m/n/12 https://www.agilealliance.org/agile101/12-principles-behind-the
+-agile-manifesto/
+ []
+
 [7] (./escrito.aux) ) 
 Here is how much of TeX's memory you used:
- 1952 strings out of 495028
- 28409 string characters out of 6181498
+ 1951 strings out of 495028
+ 28391 string characters out of 6181498
  78621 words of memory out of 5000000
- 5165 multiletter control sequences out of 15000+600000
+ 5164 multiletter control sequences out of 15000+600000
  8092 words of font info for 28 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  37i,4n,23p,475b,174s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -327,7 +308,7 @@ Here is how much of TeX's memory you used:
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on escrito.pdf (8 pages, 88999 bytes).
+Output written on escrito.pdf (8 pages, 89754 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
